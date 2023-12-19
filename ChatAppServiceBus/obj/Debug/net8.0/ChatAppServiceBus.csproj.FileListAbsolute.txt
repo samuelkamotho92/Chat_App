@@ -1,0 +1,13 @@
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\bin\Debug\net8.0\ChatAppServiceBus.deps.json
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\bin\Debug\net8.0\ChatAppServiceBus.dll
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\bin\Debug\net8.0\ChatAppServiceBus.pdb
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.csproj.AssemblyReference.cache
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.AssemblyInfoInputs.cache
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.AssemblyInfo.cs
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.sourcelink.json
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.dll
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\refint\ChatAppServiceBus.dll
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ChatAppServiceBus.pdb
+C:\Users\Twinnie Tech\source\repos\Chat App\ChatAppServiceBus\obj\Debug\net8.0\ref\ChatAppServiceBus.dll
