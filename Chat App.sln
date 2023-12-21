@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatAppServiceBus", "ChatAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailService", "MailService\MailService.csproj", "{22AD86A6-0B02-4097-8821-5737D168038E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostService", "PostService\PostService.csproj", "{A6969EE6-353A-4968-9189-3776DF16E13D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostService", "PostService\PostService.csproj", "{A6969EE6-353A-4968-9189-3776DF16E13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comment Service", "Comment Service\Comment Service.csproj", "{CE4E19E8-94B2-4A6D-9A0E-05E06F1D0DA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A6969EE6-353A-4968-9189-3776DF16E13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6969EE6-353A-4968-9189-3776DF16E13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6969EE6-353A-4968-9189-3776DF16E13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4E19E8-94B2-4A6D-9A0E-05E06F1D0DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4E19E8-94B2-4A6D-9A0E-05E06F1D0DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4E19E8-94B2-4A6D-9A0E-05E06F1D0DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4E19E8-94B2-4A6D-9A0E-05E06F1D0DA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

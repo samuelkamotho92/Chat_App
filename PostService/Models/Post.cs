@@ -13,5 +13,12 @@
         public DateTime created_at { get; set; }
 
         public DateTime updated_at { get; set; }
+
+        public Guid ? userId { get; set; }
+
+        //Get collection of comments 
+        
+
     }
+
 }

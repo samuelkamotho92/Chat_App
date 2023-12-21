@@ -5,14 +5,14 @@ namespace PostService.Services.IService
 {
     public interface IPost
     {
-        Task<Post> CreatePost(PostDto post);
+        Task<string> CreatePost(Post post);
 
-        Task GetPosts();
+        Task<List<Post>> GetPosts();
 
-        Task<string> DeletePosts(Guid postId); 
+        Task<string> DeletePosts(Post post); 
 
         Task<Post> GetpostbyId(Guid postId);
 
-        Task<Post> UpdatePost(Guid postId);
+        Task<string> UpdatePost(Post post);
     }
 }

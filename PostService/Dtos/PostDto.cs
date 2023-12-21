@@ -12,5 +12,8 @@
         public DateTime created_at { get; set; }
 
         public DateTime updated_at { get; set; }
+
+        //userId
+        public Guid ? userId { get; set; }
     }
 }
