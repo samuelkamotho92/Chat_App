@@ -27,18 +27,13 @@ namespace Comment_Service.Controllers
         }
 
         [HttpPost]
-        [Authorize]
+    /*    [Authorize]*/
         public  async Task<ActionResult<ResponseDto>> AddComment(CommentDto commentDto)
         {
             var comment = _mapper.Map<Comment>(commentDto);
-
-            //check for the post if does exist
-          var post = await    _postService.GetPostById(comment.commentId);
-            if (string.IsNullOrWhiteSpace(post.content))
-            {
-                responseDto.message = "Post does not exist";
-                return BadRequest(responseDto);
-            }
+            var post = await  _postService.GetPostById(comment.commentId, HttpContext);
+            var postVal = new PostDto();
+            Console.WriteLine(post);
         string resp = await    _commentService.CreateComment(comment);
             responseDto.message = resp;
             responseDto.result = comment;

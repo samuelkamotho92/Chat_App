@@ -5,7 +5,7 @@ namespace Comment_Service.Services.IServices
     public interface IPost
     {
 
-        Task<PostDto> GetPostById(Guid id);
+        Task<PostDto> GetPostById(Guid postid, HttpContext httpContext);
 
     }
 }
